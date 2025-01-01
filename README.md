@@ -1,11 +1,6 @@
 # Blockchain-Metadata-Tampering-Detection-Tool
 The Metadata Tampering Detection Tool is designed to analyze files associated with blockchain transactions, validate their integrity, and detect potential tampering. It compares file metadata (timestamps and hash) with blockchain-stored data to ensure authenticity and generates reports and visualizations to assist in investigations.
 
-# Metadata Tampering Detection Tool
-
-## Overview
-This tool detects anomalies in file metadata by validating it against blockchain transaction data. It ensures file integrity and identifies potential tampering.
-
 ## Features
 - Extract file metadata (timestamps and SHA256 hash).
 - Validate file metadata against blockchain data.
