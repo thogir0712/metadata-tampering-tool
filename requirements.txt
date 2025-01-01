@@ -1,0 +1,4 @@
+web3
+pandas
+watchdog
+matplotlib
