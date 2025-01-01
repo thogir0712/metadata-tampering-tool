@@ -1,0 +1,8 @@
+{
+    "File": "./data/wallet.dat",
+    "Size (Bytes)": 2048,
+    "Created": "2024-12-25 10:00:00",
+    "Modified": "2024-12-26 12:00:00",
+    "Accessed": "2024-12-27 14:00:00",
+    "Hash (SHA256)": "abc123hashvalue"
+}

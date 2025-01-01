@@ -1,0 +1,5 @@
+{
+    "infura_api_key": "your-infura-api-key",
+    "data_directory": "./data/",
+    "output_directory": "./outputs/"
+}
